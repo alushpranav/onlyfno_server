@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1"
+  },
+  "name": "onlyfno_server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alushpranav/onlyfno_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alushpranav/onlyfno_server/issues"
+  },
+  "homepage": "https://github.com/alushpranav/onlyfno_server#readme",
+  "description": ""
+}
